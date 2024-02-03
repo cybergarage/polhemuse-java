@@ -1,7 +1,5 @@
 # Polhemus for Java
 
-### Introduction
-
 This package is a development package for Java to use tracking devices of Polhemus and Intersense on Java platforms. Currently, the following devices are supported.
 
 Company | Product | Image
